@@ -108,11 +108,13 @@ The campaign materials were designed as a full presentation deck including brand
 ![Brand Story 3](images/8.png)
 ## Deliverables
 
-| File | Description |
-|------|-------------|
-| `A_-_CRM_MB_Data_Retail_Ham.xlsx` | Market basket analysis output + RFM segment scoring |
-| `Black_Week_Discount_Code_and_Bundles.pptx` | Campaign presentation with bundle designs and discount strategy |
-| `A_Delicious_Escape_Sarp_v2.pdf` | Full project report and campaign brief |
+## Deliverables
+
+| File | Description | Link |
+|------|-------------|------|
+| `A_-_CRM_MB_Data_Retail_Ham.xlsx` | Market basket analysis output + RFM segment scoring | [View on Google Drive](https://docs.google.com/spreadsheets/d/1t-quYa6_JJSq3liqUZw01bMiCrGVRJrM/edit?usp=sharing) |
+| `Black_Week_Discount_Code_and_Bundles.pptx` | Campaign presentation with bundle designs and discount strategy | Included in repo |
+| `A_Delicious_Escape_Sarp_v2.pdf` | Full project report and campaign brief | Included in repo |
 
 ---
 
